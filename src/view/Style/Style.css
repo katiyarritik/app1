@@ -1,0 +1,79 @@
+/* addtocart button */
+.button{
+    margin-left:10px;
+}
+
+/* hr */
+
+.hr{
+    
+        color: rgb(142, 179, 216);
+}
+
+
+/* home */
+
+.homewarranty{
+    text-align: center;
+    color: white;
+}
+
+.launched{
+    margin: 10px;
+    
+}
+.launched1{
+    margin: 10px;
+    color: white;
+}
+
+.textimg{
+    border-radius: 10px;
+    width: 459px;
+}
+
+
+
+/* contactus */
+.contactus{
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+
+/* aboutus */
+.aboutus1{
+    text-align: center;
+    font-size: 50px;
+}
+.aboutus2{
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+}
+.aboutus3{
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    height: 400px;
+}
+
+
+/* smartwatch */
+
+.launched2{
+    margin: 10px;
+    width: 15rem;
+}
+/* laptops */
+
+.launched2{
+    margin: 10px;
+    width: 15rem;
+}
+/* phones */
+
+.launched2{
+    margin: 10px;
+    width: 15rem;
+}
